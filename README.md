@@ -1,4 +1,3 @@
-# Snake-game
 # Snake-Game
 
 **Live-** [snake_game](https://snakegame1to3.netlify.app/)
